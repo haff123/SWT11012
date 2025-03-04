@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main() {
-    printf("well come to the fundamental of programming section");
+    printf("wel come to the fundamental of programming section");
     return 0;
 }  
